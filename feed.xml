@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/modules/content/">
+  <channel>
+    <title>Vandal Preachers</title>
+    <link>https://ericfaris.github.io/vandal-preachers-podcast/</link>
+    <description>An actual play D&amp;D podcast following the Vandal Preachers on their adventures.</description>
+    <language>en-us</language>
+    <itunes:author>Vandal Preachers</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Games &amp; Hobbies">
+      <itunes:category text="Hobbies"/>
+    </itunes:category>
+    <itunes:image href="https://ericfaris.github.io/vandal-preachers-podcast/cover.jpg"/>
+    <image>
+      <url>https://ericfaris.github.io/vandal-preachers-podcast/cover.jpg</url>
+      <title>Vandal Preachers</title>
+      <link>https://ericfaris.github.io/vandal-preachers-podcast/</link>
+    </image>
+
+    <item>
+      <title>Episode 001 — What the Ice Remembers</title>
+      <description><![CDATA[<strong>Date:</strong> March 25, 2026
+
+The aurora was still bleeding across the sky when they broke camp — greens and silvers chasing each other through the dark — and every one of them remembered the Vermling's warning. *Careful when you see the aurora.* They moved faster for it, boots punching through the crust of old snow, the painting folded into an oilskin pouch against Owbert's chest. The valley found them before midday: a great curving bowl of stone and ice, the cliffs rising on all sides like a hand slowly closing into a fist. It matched the primitive map well enough. It matched it the way a grave matches a face — recognizably, and without comfort.
+
+The cave mouth was wide and dark and did not try to hide what it was. Inside, the lantern light fell across paintings older than anyone alive — demons rendered not as warnings but as neighbors, as kin, towering figures that shrank across the walls as the murals deepened until they were shown planting crops beside their human counterparts, stacking stone. The party moved through them in a silence that had less to do with caution and more to do with the particular hush that falls over people confronting something they had not been prepared to feel. Pyro's flame danced. Nightengale's eyes tracked the shapes above. And then the cold things came — drawn by warmth, by the exhalation of living breath in dead air — and the silence ended. Three rounds of violence erupted in the cramped dark, Riptide holding the passage while Owbert moved behind the lines in some frantic internal negotiation between self-preservation and curiosity. It was Eric who ended it in the third round with a ferocity that emptied the tunnel of anything breathing that shouldn't have been — three bodies falling in the span of a single terrible assault, the echo of it ringing off ice-coated stone long after the blows had landed. Four enemies fell in all. It was not enough. The cave went deeper than their strength could follow, and the fragments they had come for remained buried under ice and dark and the slow pressure of centuries. They retreated into the cold with nothing but experience and the knowledge of what lay waiting for them below. Some doors, the frozen north has always known, do not open the first time you knock.
+
+Frosthaven received them without ceremony, as it received all failures — with fires already burning, because the fires did not care about outcomes. The outpost was as they had left it: enduring, indifferent, alive in the minimal way that settlements on the edge of the world are alive. They came back carrying the memory of those murals like a splinter worked too deep to simply pull free — demons building alongside people, a history that refused the shape they had always given it. Owbert set the oilskin pouch on the table in the great hall and stared at it for a long time. Outside, the aurora had faded, but they all knew it would return. The Vermlings would be ready, they'd been told. The cave would be waiting too, patient in the way that ice is patient — which is to say, absolutely, and without any particular hurry.]]></description>
+      <pubDate>Sat, 28 Mar 2026 20:24:29 GMT</pubDate>
+      <enclosure url="https://ericfaris.github.io/vandal-preachers-podcast/vpp-episode-001.mp3" length="2170034" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://ericfaris.github.io/vandal-preachers-podcast/vpp-episode-001.mp3</guid>
+      <itunes:image href="https://ericfaris.github.io/vandal-preachers-podcast/vpp-episode-001.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
