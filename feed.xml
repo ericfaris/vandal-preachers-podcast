@@ -19,5 +19,49 @@
       <title>Vandal Preachers</title>
       <link>https://ericfaris.github.io/vandal-preachers-podcast/</link>
     </image>
+
+    <item>
+      <title>Episode 002: Formal Complaint, Re: The Trading Post (Ref. No. TP-12, Calibration Incident)</title>
+      <description><![CDATA[TO: Outpost Administration, Town Hall, Frosthaven
+FROM: The Undersigned, Senior Trade Clerk, Trading Post (Lv3)
+DATE: Campaign Week 46, Summer (mud still present; situation unchanged)
+RE: Incident of this week involving the party member known as "Lava Rock"
+
+I write to formally document the following, as I believe the Town Hall was constructed for precisely this purpose.
+
+On the afternoon in question, the party member identified as Lava Rock entered the Trading Post during business hours — which I will note are posted on the door, in ink, on a board I personally sealed against the damp. He did not browse. He did not purchase. He approached the counter and asked, without preamble, whether I had "heard about the herb situation."
+
+I confirmed that I had read the notice.
+
+He then asked whether I felt the herbs had been "exceptional, or merely competent." I told him I had not personally evaluated the herbs. He asked whether, in my professional estimation, anyone could have pointed the herbs in a direction. I said I did not follow the question. He said he was looking for calibration.
+
+I asked what he was calibrating.
+
+He said: "Recognition. Its distribution. Specifically, whether it's going to the right places."
+
+I told him I was a trade clerk.
+
+He said: "So you understand allocation."
+
+He stood at the counter for a further four minutes. He did not purchase anything. He left when the party member identified as Riptide appeared in the doorway and said, with apparent authority, "Rock. We're going."
+
+Lava Rock went.
+
+I have since re-read the notice three times and remain uncertain what I was supposed to say.
+
+*— Filed in triplicate, per policy*
+
+*[Added below in a different hand, smaller, near the bottom of the page]*
+
+The party member identified as Bamm-Bamm also entered briefly. He looked at the shelves. He nodded once. He left.
+
+*This office has no formal procedure for that.*]]></description>
+      <pubDate>Tue, 07 Jul 2026 03:52:08 GMT</pubDate>
+      <enclosure url="https://ericfaris.github.io/vandal-preachers-podcast/vpp-episode-002.mp3" length="1894299" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://ericfaris.github.io/vandal-preachers-podcast/vpp-episode-002.mp3</guid>
+      
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+    </item>
   </channel>
 </rss>
